@@ -8,5 +8,5 @@ Image of site below.
 
 
 
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/79070269/113465892-5fec4880-9405-11eb-8e52-52fcb423b7ef.png)
 
-<img width="641" alt="Screen Shot 2021-04-02 at 10 21 30 PM" src="https://user-images.githubusercontent.com/79070269/113465418-ca9b8500-9401-11eb-85c9-bfea1ae12e0e.png">
