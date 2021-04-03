@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Consolidated the 3 class selectors and their code into one */
+/* Consolidated the 3 class selectors */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,7 +102,7 @@ p {
     max-width: 150px;
 }
 
-/* consolidated max-height, font-size, and class into one line */
+/* Consolidated the max-height, font-size, and the class */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
