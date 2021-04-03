@@ -1,6 +1,8 @@
-Code Refactor
+Code Refactor:
 
 For this assignment I refactored the HTML and CSS file to increase readability and stabliltiy. I also consolidated lines of code in the CSS file to clean up the code and organize it better.
+
+Image of site below.
 
 
 
